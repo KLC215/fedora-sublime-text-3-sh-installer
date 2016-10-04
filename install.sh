@@ -9,7 +9,7 @@ N=`tput sgr0`
 
 # Sublime Text 3 - Build 3124
 # Release Date: 22 Sep 2016
-BUILD="3124"
+BUILD="3126"
 
 SOURCE="https://download.sublimetext.com/sublime_text_3_build_${BUILD}_x64.tar.bz2"
 SHORTCUT="[Desktop Entry]
